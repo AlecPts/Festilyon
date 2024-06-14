@@ -18,7 +18,7 @@
         <NavLi href="/">Trouver une soirée</NavLi>
         <NavLi href="/">Organiser une soirée</NavLi>
         <NavLi href="/">Mes likes</NavLi>
-        <NavLi href="/">Mon compte</NavLi>
+        <NavLi href="/account">Mon compte</NavLi>
     </NavUl>
 </Navbar>
 

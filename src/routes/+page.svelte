@@ -1,5 +1,5 @@
 <script>
-    import PartyCard from "./PartyCard.svelte";
+    import PartyCard from "./components/PartyCard.svelte";
 
 	  const parties = [
     {
